@@ -1,6 +1,82 @@
+**Languages:** [English](#english) | [Français](#francais)
+
+<a id="english"></a>
+![OpenG7 – Alliance numérique G7](assets/banner-openG7-en-optimized.jpg)
+
+# 🌍 OpenG7 - English
+
+**Open digital alliance for the economy and innovation of the G7**  
+OpenG7 is an open initiative aimed at connecting economies, mapping production capacities, and strengthening economic resilience between provinces, territories, and G7 member countries.
+
+---
+
+## 🚀 Mission
+- Foster **economic** and **technological collaboration** between G7 countries.  
+- Establish an **interconnected** and **transparent** network powered by AI.  
+- Provide **open digital tools** to improve responsiveness and productivity.  
+- Inspire governments and organizations to **innovate together**.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Angular 19.2.5 (Signal-first architecture)  
+- **State management:** NgRx 19.1.0  
+- **UI/UX:** TailwindCSS 4.1.10  
+- **i18n:** @ngx-translate/core  
+- **Mapping:** Leaflet, jsVectorMap  
+- **Backend (planned):** NestJS  
+- **AI:** OpenAI GPT & API integrations  
+- **Hosting:** Data hosted in Canada 🇨🇦  
+- **License:** Apache-2.0  
+
+---
+
+## 📂 Key Projects
+- **OpenG7 Platform:** Digital directory and B2B search engine for interprovincial and international trade.  
+- **Interactive Map:** Real-time visualization of economic and industrial connections.  
+- **AI Tools:** Intelligent matching between suppliers and buyers.  
+- **Public API** (coming soon): Access to aggregated economic data.  
+
+---
+
+## 📜 Founding Act
+OpenG7 invites G7 countries to:
+1. **Register their production capacities** on the platform.  
+2. **Connect their economic databases**.  
+3. Join a **collective intelligence network powered by AI**.
+
+---
+
+## 🤝 Contributing
+We warmly welcome:
+- Developers passionate about **Angular, NestJS, Leaflet, TailwindCSS**.  
+- Experts in **data science, AI, and data visualization**.  
+- Institutional and industrial partners.  
+
+**How to contribute:**
+1. Fork this repository.  
+2. Create a branch (`feature/my-feature`).  
+3. Submit a pull request.  
+
+---
+
+## 💬 Community
+- **Bluesky:** [@openg7.bsky.social](https://bsky.app/profile/openg7.bsky.social)  
+- **GitHub:** [OpenG7 - Hello world](https://github.com/OpenG7)  
+
+---
+
+## 📢 Status
+🚧 **Project under construction** — The first milestones of our digital sovereignty are now in place.  
+More to come at: https://github.com/OpenG7
+
+
+---
+
+<a id="francais"></a>
 ![OpenG7 – Alliance numérique G7](assets/banner-openG7-optimized.jpg)
 
-# 🌍 OpenG7
+# 🌍 OpenG7 - Francais
 
 **Alliance numérique ouverte pour l’économie et l’innovation du G7**  
 OpenG7 est une initiative ouverte visant à connecter les économies, cartographier les capacités de production, et renforcer la résilience économique entre provinces, territoires et pays membres du G7.
