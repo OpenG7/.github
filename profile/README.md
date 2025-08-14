@@ -1,4 +1,4 @@
-![OpenG7 – Alliance numérique G7](assets/banner-openG7.png)
+![OpenG7 – Alliance numérique G7](assets/banner-openG7-optimized.jpg)
 
 # 🌍 OpenG7
 
