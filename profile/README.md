@@ -58,9 +58,8 @@ Nous accueillons avec enthousiasme :
 ---
 
 ## 💬 Communauté
-- **Bluesky** : [@OpenG7](https://bsky.app/profile/openg7.org)
-- **GitHub** : [OpenG7](https://github.com/OpenG7)
-- **Patreon** (à venir)
+- **Bluesky** : [@openg7.bsky.social](https://bsky.app/profile/openg7.bsky.social)
+- **GitHub** : [OpenG7 - Hello world](https://github.com/OpenG7)
 
 ---
 
