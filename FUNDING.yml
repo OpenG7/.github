@@ -20,8 +20,7 @@ github: [OpenG7]
 # Custom direct links (any URL). Add/remove as needed.
 custom:
   # Wise (remplace par ton lien public de paiement Wise)
-  - https://wise.com/pay/r/aqBe1BI1xx2Wx2U
-  - https://wise.com/pay/r/XbY3Hiu2FNlIEv4
+  - https://wise.com/pay/business/openg7
   # Page de dons OpenG7 (héberge un formulaire carte de crédit/Stripe si désiré)
   # - https://openg7.org/donate
   # Alternatives (retire celles non utilisées)
