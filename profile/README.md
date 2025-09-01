@@ -1,3 +1,5 @@
+<video src="assets/openG7-cinematic-720p.mp4" controls playsinline muted width="720"></video>
+
 **Languages:** [English](#english) | [Français](#francais)
 
 <a id="english"></a>
