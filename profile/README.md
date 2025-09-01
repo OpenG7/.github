@@ -1,7 +1,4 @@
-<video src="./assets/openG7-cinematic-720p.mp4"
-       controls playsinline muted width="720">
-  Votre navigateur ne supporte pas la vidéo intégrée. 
-</video>
+https://github.com/user-attachments/assets/53ab1a8a-417c-4c7f-8873-b00d82bba9e6.mp4
 
 **Languages:** [English](#english) | [Français](#francais)
 
