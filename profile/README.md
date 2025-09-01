@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/53ab1a8a-417c-4c7f-8873-b00d82bba9e6.
 
 ## 🇬🇧 English
 
-![OpenG7 – English Banner](assets/banner-openG7-en-optimized.jpg)
+![OpenG7 – English Banner](assets/banner-openG7-en.png)
 
 **Open Digital Alliance to connect the economies of the G7**
 
@@ -122,7 +122,7 @@ Apache-2.0 — see LICENSE file.
 <a id="francais"></a>
 ## 🇫🇷 Français
 
-![OpenG7 – Bannière Française](assets/banner-openG7-optimized.jpg)
+![OpenG7 – Bannière Française](assets/banner-openG7-fr.png)
 
 **Alliance numérique ouverte pour connecter les économies du G7**
 
