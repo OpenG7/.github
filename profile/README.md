@@ -114,6 +114,30 @@ Additional funding will enable a full-time development team and faster feature d
 
 ---
 
+### 🧭 @OpenG7 – Steering & Delivery
+
+Welcome to the **OpenG7 operational dashboard**, dedicated to **project steering and delivery**.  
+This board helps track the evolution of various initiatives, sprints, tasks, and deliverables linked to the OpenG7 ecosystem.
+
+📍 Direct access to the board:  
+👉 [GitHub Projects Board – Steering & Delivery](https://github.com/orgs/OpenG7/projects/3)
+
+---
+
+### 🪙 The OpenG7 Symbolic Coin
+
+OpenG7 now has its own digital coin representing **economic sovereignty** in the era of open technologies.
+
+![Official OpenG7 Coin](assets/openG7-token.png)
+
+**Visual meanings:**
+- 🦁 The lion represents the **strength, pride, and stability** of a citizen-powered project.
+- 🌅 The golden background symbolizes the **hope for economic renewal** driven by sovereign innovation.
+- 🍁 The two maple leaves embody OpenG7’s Canadian identity and local grounding.
+- 🔁 The phrase _Souveraineté – Sovereignty_ reflects the project’s main goal: **restoring digital and economic control** to nations, provinces, and citizens.
+
+---
+
 ### 📜 License
 
 Apache-2.0 — see LICENSE file.
@@ -224,6 +248,29 @@ Des fonds supplémentaires permettront de constituer une équipe de développeme
 📧 contact@openg7.org  
 💬 Discord *(à venir)*  
 🔗 LinkedIn *(à venir)*  
+
+---
+
+### 🧭 @OpenG7 – Pilotage & Livraison
+
+Bienvenue sur le **tableau de bord opérationnel d’OpenG7**, dédié au **pilotage** et à la **livraison des projets**.  
+Ce tableau permet de suivre l'évolution des différentes initiatives, sprints, tâches et livrables rattachés à l’écosystème OpenG7.
+
+📍 Accès direct au tableau :  
+👉 [Tableau GitHub Projects – Pilotage & Livraison](https://github.com/orgs/OpenG7/projects/3)
+
+---
+
+## La pièce symbolique OpenG7
+
+OpenG7 a désormais sa propre pièce numérique représentant la **souveraineté économique** à l’ère des technologies ouvertes.
+![Pièce officielle OpenG7](assets/openG7-token.png)
+
+**Significations visuelles :**
+- 🦁 Le lion représente la **force, la fierté et la stabilité** d’un projet porté par ses citoyen·nes.
+- 🌅 L’arrière-plan doré symbolise l’**espoir d’un renouveau** économique porté par l’innovation souveraine.
+- 🍁 Les deux feuilles d’érable incarnent l’identité canadienne d’OpenG7 et son enracinement local.
+- 🔁 La mention _Souveraineté – Sovereignty_ rappelle l’objectif fondamental du projet : **redonner le contrôle économique et numérique** aux nations, provinces et citoyen·nes.
 
 ---
 
