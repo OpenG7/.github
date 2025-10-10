@@ -109,7 +109,7 @@ Additional funding will enable a full-time development team and faster feature d
 ### 📢 Official channels
 
 📧 contact@openg7.org  
-💬 Discord *(coming soon)*  
+💬 Discord: [*OpenG7*](https://discord.gg/openg7) 
 🔗 LinkedIn *(coming soon)*  
 
 ---
@@ -246,7 +246,7 @@ Des fonds supplémentaires permettront de constituer une équipe de développeme
 ### 📢 Canaux officiels
 
 📧 contact@openg7.org  
-💬 Discord *(à venir)*  
+💬 Discord: [*OpenG7*](https://discord.gg/openg7)  
 🔗 LinkedIn *(à venir)*  
 
 ---
