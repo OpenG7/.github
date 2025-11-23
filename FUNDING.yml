@@ -1,28 +1,5 @@
-# .github/FUNDING.yml
-# -- EN: Configure all the places where people can fund OpenG7
-# -- FR: Configure tous les endroits où soutenir financièrement OpenG7
+github:
+  - OpenG7
 
-# GitHub Sponsors (org or user). Requires enrollment.
-github: [OpenG7]
-
-# Other platforms (replace with your handles if/when created)
-#patreon: openg7
-#open_collective: openg7
-#ko_fi: openg7
-#liberapay: openg7
-#issuehunt: OpenG7
-#otechie: openg7
-#community_bridge: openg7
-
-# Tidelift example (uncomment and set a real package if you join)
-# tidelift: "npm/openg7"
-
-# Custom direct links (any URL). Add/remove as needed.
 custom:
-  # Wise (remplace par ton lien public de paiement Wise)
   - https://wise.com/pay/business/openg7
-  # Page de dons OpenG7 (héberge un formulaire carte de crédit/Stripe si désiré)
-  # - https://openg7.org/donate
-  # Alternatives (retire celles non utilisées)
-  # - https://buymeacoffee.com/openg7
-  # - https://gofundme.com/f/openg7
