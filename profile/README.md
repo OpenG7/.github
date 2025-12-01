@@ -140,7 +140,7 @@ OpenG7 now has its own digital coin representing **economic sovereignty** in the
 
 ### 📜 License
 
-Apache-2.0 — see LICENSE file.
+MIT — see LICENSE file.
 
 ---
 <a id="francais"></a>
@@ -276,4 +276,4 @@ OpenG7 a désormais sa propre pièce numérique représentant la **souveraineté
 
 ### 📜 Licence
 
-Apache-2.0 — voir le fichier LICENSE.
+MIT — voir le fichier LICENSE.
